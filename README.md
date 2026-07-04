@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/debashis-behera-java/debashis-behera-java/main/images/banner.png" alt="Debashis Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/debashis-behera-java/debashis-behera-java/main/images/Banner.png" alt="Debashis Banner" width="100%">
 </p>
 
 # Hi 👋, I'm Debashis Behera
