@@ -1,6 +1,6 @@
-<p align="center">
+[<p align="center">
   <img src="https://raw.githubusercontent.com/debashis-behera-java/debashis-behera-java/main/images/Banner.png" alt="Debashis Banner" width="100%">
-</p>
+</p>](https://raw.githubusercontent.com/debashis-behera-java/debashis-behera-java/main/Banner.png)
 
 # Hi 👋, I'm Debashis Behera
 
